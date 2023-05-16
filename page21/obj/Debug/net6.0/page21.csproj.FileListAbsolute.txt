@@ -1,0 +1,15 @@
+C:\GitHW040523\page21\bin\Debug\net6.0\page21.exe
+C:\GitHW040523\page21\bin\Debug\net6.0\page21.deps.json
+C:\GitHW040523\page21\bin\Debug\net6.0\page21.runtimeconfig.json
+C:\GitHW040523\page21\bin\Debug\net6.0\page21.dll
+C:\GitHW040523\page21\bin\Debug\net6.0\page21.pdb
+C:\GitHW040523\page21\obj\Debug\net6.0\page21.csproj.AssemblyReference.cache
+C:\GitHW040523\page21\obj\Debug\net6.0\page21.GeneratedMSBuildEditorConfig.editorconfig
+C:\GitHW040523\page21\obj\Debug\net6.0\page21.AssemblyInfoInputs.cache
+C:\GitHW040523\page21\obj\Debug\net6.0\page21.AssemblyInfo.cs
+C:\GitHW040523\page21\obj\Debug\net6.0\page21.csproj.CoreCompileInputs.cache
+C:\GitHW040523\page21\obj\Debug\net6.0\page21.dll
+C:\GitHW040523\page21\obj\Debug\net6.0\refint\page21.dll
+C:\GitHW040523\page21\obj\Debug\net6.0\page21.pdb
+C:\GitHW040523\page21\obj\Debug\net6.0\page21.genruntimeconfig.cache
+C:\GitHW040523\page21\obj\Debug\net6.0\ref\page21.dll
