@@ -1,0 +1,15 @@
+C:\GitHW040523\page 23\bin\Debug\net6.0\page 23.exe
+C:\GitHW040523\page 23\bin\Debug\net6.0\page 23.deps.json
+C:\GitHW040523\page 23\bin\Debug\net6.0\page 23.runtimeconfig.json
+C:\GitHW040523\page 23\bin\Debug\net6.0\page 23.dll
+C:\GitHW040523\page 23\bin\Debug\net6.0\page 23.pdb
+C:\GitHW040523\page 23\obj\Debug\net6.0\page 23.csproj.AssemblyReference.cache
+C:\GitHW040523\page 23\obj\Debug\net6.0\page 23.GeneratedMSBuildEditorConfig.editorconfig
+C:\GitHW040523\page 23\obj\Debug\net6.0\page 23.AssemblyInfoInputs.cache
+C:\GitHW040523\page 23\obj\Debug\net6.0\page 23.AssemblyInfo.cs
+C:\GitHW040523\page 23\obj\Debug\net6.0\page 23.csproj.CoreCompileInputs.cache
+C:\GitHW040523\page 23\obj\Debug\net6.0\page 23.dll
+C:\GitHW040523\page 23\obj\Debug\net6.0\refint\page 23.dll
+C:\GitHW040523\page 23\obj\Debug\net6.0\page 23.pdb
+C:\GitHW040523\page 23\obj\Debug\net6.0\page 23.genruntimeconfig.cache
+C:\GitHW040523\page 23\obj\Debug\net6.0\ref\page 23.dll
